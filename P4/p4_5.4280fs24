@@ -1,0 +1,7 @@
+program 
+  var x1 , 1 ;
+start
+  read x1 ;
+  iff [ x1 .gt. 0 ]
+    print x1 ;
+stop

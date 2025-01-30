@@ -1,0 +1,8 @@
+program
+    var x1, 1;
+start
+    var x3, 1
+    x4, 2;
+    set x1 1;
+    read x3;
+stop

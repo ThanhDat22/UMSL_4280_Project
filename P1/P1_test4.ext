@@ -1,0 +1,7 @@
+a ab a_123 v @@this is comment@ 
+
+1 12 23 @@comment@12345
+
+@@comment@start stop iterate var exit read print iff then set func program
+
+=  .le. @@comment@ .ge. .lt. .ge. ~ : ;  +  -  **  /  %  . (  ) , { } ; [ ]
